@@ -2,6 +2,4 @@
 
 # BOOTCAMP FRONTEND DEVELOPER
 
-![](./assets/html.png)
-![](./assets/css.png)
-![](./assets/js.png)
+<img src="./assets/html.png" style="width: 25px; vertical-align: sub; margin-right: 10px">
