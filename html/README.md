@@ -1,4 +1,4 @@
-![logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
+![logotipo de GammaTech School](../assets/Logo_Yellow.png)
 
 # Índice (HTML)
 
@@ -20,4 +20,4 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 ### Formularios
 - [Teoría: Formularios](formularios.md)
 - [Práctica: Club de la tercera edad](./exercises/club_tercera_edad/README.md)
-- [Práctica: Formulario de la "Wweb tributo"](./exercises/web_tributo/README.md#2-formulario)
+- [Práctica: Formulario de la "Web tributo"](./exercises/web_tributo/README.md#2-formulario)
