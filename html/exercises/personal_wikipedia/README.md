@@ -1,6 +1,6 @@
 # Práctica HTML: Wikipedia personal
 
-## Enunciado
+## Enunciado
 Vamos a crear una página de wikipedia sobre nosotros mismos (o un amigo, familiar, o personaje que te dé la gana). Usa las tags de HTML que has aprendido para crear las diferentes secciones, que deberán ser:
 1. Índice, con una lista de las secciones.
 2. Biografía
