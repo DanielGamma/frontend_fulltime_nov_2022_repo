@@ -7,10 +7,11 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 
 [Enlace a la documentación de MDN.](https://developer.mozilla.org/es/docs/Web/HTML)
 
-## <img src='../assets/theory.png'>Etiquetas de formato de texto, listas y comentarios
-- [Encabezados](https://www.w3schools.com/html/html_headings.asp)
-- [Párrafos](https://www.w3schools.com/html/html_paragraphs.asp)
-- [Formato de texto](https://www.w3schools.com/html/html_formatting.asp)
-- [Citas](https://www.w3schools.com/html/html_quotation_elements.asp)
-- [Listas](https://www.w3schools.com/html/html_lists.asp)
-- [Comentarios](https://www.w3schools.com/html/html_comments.asp)
+## <img src='../assets/theory.png' style="width: 25px; vertical-align: sub; margin-right: 10px">[Etiquetas de formato de texto, listas y comentarios](texto_y_listas.md)
+
+## <img src='../assets/theory.png' style="width: 25px; vertical-align: sub; margin-right: 10px">[Enlaces, tablas y etiquetas multimedia](enlaces_y_etiquetas_multimedia.md)
+
+## <img src='../assets/theory.png' style="width: 25px; vertical-align: sub; margin-right: 10px">[Formularios](texto_y_listas.md)
+
+## <img src='../assets/theory.png' style="width: 25px; vertical-align: sub; margin-right: 10px">[Etiquetas de formato de texto, listas y comentarios](texto_y_listas.md)
+
