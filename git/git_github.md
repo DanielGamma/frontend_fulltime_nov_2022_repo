@@ -50,13 +50,14 @@ apt-get install git
 
 ### En Windows [descargando el ejecutable desde aquí](https://git-scm.com/download/win)
 
+
+### Comandos de Git
 Para comprobar que tenemos instalado Git y `ver la versión`, podemos escribir lo siguiente en la terminal:
 
 ```
 git --version
 ```
 
-### Comandos de Git
 
 Para ingresar el `nombre de usuario`:
 ```
