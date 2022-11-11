@@ -11,5 +11,5 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 
 ## <img src='../assets/theory.png' style="width: 50px; vertical-align: sub; margin-right: 10px">[Enlaces, tablas y etiquetas multimedia](enlaces_y_etiquetas_multimedia.md)
 
-## <img src='../assets/theory.png' style="width: 40px; vertical-align: sub; margin-right: 10px">[Formularios](formularios.md)
+## <img src='../assets/theory.png' style="width: 40px;">[Formularios](formularios.md)
 
