@@ -3,9 +3,8 @@
 # Git y GitHub
 
 ## ¿Qué es Git?
-<br>
 
-![img](../assets/ejercicio/git-logo.png)
+![img](../assets/git-logo.png)
 
 <br>
 
@@ -19,14 +18,11 @@ Con **Git** podemos controlar todos los cambios que se hacen en nuestro código 
 
 Cuando haces modificaciones en un fichero de código y haces un **commit**, Git almacena solo las líneas que has modificado desde tu útlimo **commit**.
 
-<br>
-
 
 ## ¿Qué es GitHub?
 
-<br>
 
-![img](../assets/ejercicio/github-octocat.png)
+![img](../assets//github-octocat.png)
 
 <br>
 
@@ -36,11 +32,8 @@ Un **repositorio** es una **carpeta controlada por Git**
 
 Con GitHub podemos acceder de manera remota a nuestros repositorios, clonarlos, compartirlos con otros desarrolladores, etc. 
 
-<br>
 
 ## Instalación y configuración
-
-<br>
 
 ### En Mac desde la terminal
 *Deberás tener previamente instalado [Homebrew](https://brew.sh/)*
@@ -49,18 +42,13 @@ Con GitHub podemos acceder de manera remota a nuestros repositorios, clonarlos, 
  brew install git
 ```
 
-<br>
-
 ### En Linux desde la terminal (Debian/Ubuntu)
 
 ```
 apt-get install git
 ```
-<br>
 
 ### En Windows [descargando el ejecutable desde aquí](https://git-scm.com/download/win)
-
-<br>
 
 Para comprobar que tenemos instalado Git y `ver la versión`, podemos escribir lo siguiente en la terminal:
 
@@ -68,21 +56,19 @@ Para comprobar que tenemos instalado Git y `ver la versión`, podemos escribir l
 git --version
 ```
 
-<br>
+### Comandos de Git
 
 Para ingresar el `nombre de usuario`:
 ```
 git config --global user.name <nombre-de-usuario-en-github>
 ```
 
-<br>
 
 Para ingresar el `email del usuario`:
 ```
 git config --global user.email <tu@email.com>
 ```
 
-<br>
 
 Para `verificar` cuál es el nombre de usuario que tenemos `configurado`:
 
@@ -90,18 +76,14 @@ Para `verificar` cuál es el nombre de usuario que tenemos `configurado`:
 git config --global user.name
 ```
 
-<br>
 
 Para ver la `configuración actual`:
 ```
 git config --list
 ``` 
 
-<br>
 
 ## Primeros pasos
-
-<br>
 
 1. Creamos una cuenta en [GitHub](https://github.com/).
 2. [Instalamos](https://git-scm.com/downloads) y configuramos `Git` en nuestro ordenador.
@@ -127,41 +109,35 @@ Para `clonar` (hacer una copia) de tu repositorio de GitHub en local:
 git clone <url-del-repo-que-quieres-clonar> <nombre-alternativo-para-carpeta-local> (opcional)
 ``` 
 
-<br>
 
 Para `añadir al staging area` (preaprar para guardar archivos en git) uno o más ficheros determinados:
 ```
 git add <nombre-del-fichero>
 ```
 
-<br>
 
 Para `añadir al staging area` todos los ficheros que han sufrido modificaciones:
 ```
 git add -A` o `git add .
 ```
 
-<br>
 
 Para realizar un `commit` y agregar un mensaje que lo identifique:
 ```
 git commit -m "<tu-mensaje>"
 ``` 
 
-<br>
 
 Para `subir los cambios` al repositorio en remoto (GitHub):
 ```
 git push
 ``` 
 
-<br>
 
 Para `descargar los cambios` que estén en remoto y no tenga en mi ordenador:
 ```
 git pull
 ```
-<br>
 
 Para ver el `historial de todos los commits` realizados en ese repositorio:
 
@@ -169,15 +145,10 @@ Para ver el `historial de todos los commits` realizados en ese repositorio:
 git log
 ```
 
-<br>
-
 ---
 
-<br>
 
 ## Recursos adicionales
-
-<br>
 
 - [Te lo explico con gatitos](https://teloexplicocongatitos.com/poster/tlecg04) 
 
