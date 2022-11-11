@@ -2,8 +2,10 @@
 
 # Índice Terminal, Git y GitHub
 
-## [Terminal](terminal.md)
-## [Ejercicios de Terminal](terminal.md#ejercicios)
+## Terminal
+### [Terminal](terminal.md)
+### [Ejercicios de Terminal](terminal.md#ejercicios)
 
-## [Git y GitHub](git_github.md)
-## [Ejercicios de Git y GitHub](git_exercises.md)
+## Git y GitHub
+### [Git y GitHub](git_github.md)
+### [Ejercicios de Git y GitHub](git_exercises.md)
