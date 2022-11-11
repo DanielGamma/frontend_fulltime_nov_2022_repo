@@ -1,8 +1,8 @@
 ![logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
 
-# Práctica HTML: Carta #
+# Práctica HTML: Formateo de una carta
 
-## Enunciado ##
+## Enunciado
 
 En este ejercicio, realizaremos el marcado de una carta con las etiquetas de HTML que hemos aprendido.
 

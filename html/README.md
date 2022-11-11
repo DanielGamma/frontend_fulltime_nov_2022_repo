@@ -9,6 +9,7 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 
 ### Etiquetas de formato de texto, listas y comentarios
 - [Teoría: Etiquetas de formato de texto, listas y comentarios](texto_y_listas.md)
+- [Práctica: Wikipedia personal](./exercises/personal_wikipedia/README.md)
 - [Práctica: Formateo de una carta](./exercises/carta/README.md)
 
 ### Enlaces, tablas y etiquetas multimedia
