@@ -31,6 +31,11 @@ Con este comando creamos un archivo: `touch index.html` crea un archivo HTML lla
 #### `mv` + nombre + dirección
 Con `mv` (move), podemos copiar un archivo o carpeta y pegarlo en otra localización. `mv index.html mi_proyecto` moverá el archivo "index.html" que haya en ese directorio a la carpeta "mi_proyecto".
 
+### Recursos para profundizar en la terminal
+- [Most Common and Useful Commands to Use](https://www.freecodecamp.org/news/command-line-for-beginners/#mostcommonandusefulcommandstouse)
+- [La guía definitiva para aprender a usar la terminal de Linux](https://openwebinars.net/blog/La-guia-definitiva-para-aprender-a-usar-la-terminal-de-Linux/)
+- [Comandos básicos para usar en el terminal](https://www.swhosting.com/es/comunidad/manual/comandos-basicos-para-usar-en-el-terminal)
+
 ## Git
 
 ## GitHub
