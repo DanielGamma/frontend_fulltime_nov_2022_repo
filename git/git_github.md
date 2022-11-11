@@ -18,6 +18,7 @@ Con **Git** podemos controlar todos los cambios que se hacen en nuestro código 
 
 Cuando haces modificaciones en un fichero de código y haces un **commit**, Git almacena solo las líneas que has modificado desde tu útlimo **commit**.
 
+<br>
 
 ## ¿Qué es GitHub?
 
@@ -32,6 +33,7 @@ Un **repositorio** es una **carpeta controlada por Git**
 
 Con GitHub podemos acceder de manera remota a nuestros repositorios, clonarlos, compartirlos con otros desarrolladores, etc. 
 
+<br>
 
 ## Instalación y configuración
 
@@ -50,8 +52,9 @@ apt-get install git
 
 ### En Windows [descargando el ejecutable desde aquí](https://git-scm.com/download/win)
 
+<br>
 
-### Comandos de Git
+## Comandos de Git
 Para comprobar que tenemos instalado Git y `ver la versión`, podemos escribir lo siguiente en la terminal:
 
 ```
