@@ -14,6 +14,8 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 
 ### Enlaces, tablas y etiquetas multimedia
 - [Teoría: Enlaces, tablas y etiquetas multimedia](enlaces_y_etiquetas_multimedia.md)
+- [Práctica: Web tributo](./exercises/web_tributo/README.md)
+- [Práctica: EL Gimnasio de Gervasio](./exercises/gimnasio/README.md)
 
 ### Formularios
 - [Teoría: Formularios](formularios.md)
