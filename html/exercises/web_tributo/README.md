@@ -1,3 +1,5 @@
+![logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
+
 # Práctica HTML: Web tributo
 
 ## 1. HTML Básico

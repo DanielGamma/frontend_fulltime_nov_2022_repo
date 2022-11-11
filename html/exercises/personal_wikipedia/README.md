@@ -1,3 +1,5 @@
+![logotipo de GammaTech School](../../../assets/Logo_Yellow.png)
+
 # Práctica HTML: Wikipedia personal
 
 ## Enunciado
