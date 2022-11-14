@@ -1,4 +1,4 @@
-![](./assets/Logo_Yellow.png)
+![](./src/assets/Logo_Yellow.png)
 
 # BOOTCAMP FRONTEND DEVELOPER
 
