@@ -1,5 +1,7 @@
 ## CSS - Selectores
 
+- [Resumen de selectores (en castellano)](https://developer.mozilla.org/es/docs/Web/CSS/CSS_Selectors)
+
 ### Selectores simples
 - [Selectores simples](https://www.w3schools.com/css/css_selectors.asp)
 

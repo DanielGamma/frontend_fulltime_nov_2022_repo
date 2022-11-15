@@ -11,6 +11,8 @@
 
 ### Color
 - [Formas de escribir colores](https://www.w3schools.com/cssref/css_colors_legal.php)
+- [Background-color](https://www.w3schools.com/cssref/pr_background-color.php)
+- [Color](https://www.w3schools.com/cssref/pr_text_color.php)
 
 ### Texto
 - [Colores de texto](https://www.w3schools.com/css/css_text.asp)
