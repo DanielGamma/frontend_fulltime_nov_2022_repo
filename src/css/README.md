@@ -5,8 +5,7 @@ CSS (Cascading Style Sheets) es un lenguaje que nos permite añadir estilos a un
 El HTML nos sirve para escribir el contenido de nuestra página (texto, imágenes, videos, etc.), pero no nos permite controlar cómo va a mostrarse ese contenido: para eso está CSS. Puedes aprender más sobre CSS en estos enlaces:
 - [Documentación de MDN](https://developer.mozilla.org/es/docs/Web/CSS)
 - [Wikipedia de CSS](https://es.wikipedia.org/wiki/CSS)
-
-### [Cómo añadir CSS a tu archivo HTML](https://www.w3schools.com/css/css_howto.asp)
+- [Cómo añadir CSS a tu archivo HTML](https://www.w3schools.com/css/css_howto.asp)
 
 ### Selectores
 - [Teoría: Selectores](selectores.md)
