@@ -18,7 +18,7 @@ HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indic
 - [Práctica: El Gimnasio de Gervasio](./exercises/gimnasio/README.md)
 
 ### Formularios
-- [Teoría: Formularios](formularios.md)
+- [Teoría: Formularios y elementos block/inline](formularios.md)
 - [Práctica: Club de la tercera edad](./exercises/club_tercera_edad/README.md)
 - [Práctica: Formulario de la "Web tributo"](./exercises/web_tributo/README.md#2-formulario)
 
