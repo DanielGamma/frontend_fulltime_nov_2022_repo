@@ -10,7 +10,7 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 ### Selectores
 - [Teoría: Selectores](selectores.md)
 - [Práctica: CSS Dinner](https://flukeout.github.io/)
-- [Más práctica: CSS Speedrun](https://css-speedrun.netlify.app/)
+- [Práctica: CSS Speedrun](https://css-speedrun.netlify.app/)
 
 ### Box model, color y texto
 - [Teoría: Box model, color y texto](box_model_color_texto.md)
