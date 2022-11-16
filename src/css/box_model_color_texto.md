@@ -24,3 +24,6 @@
 - [Text-decoration](https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
 - [Vertical-align](https://www.w3schools.com/cssref/pr_pos_vertical-align.asp)
 - [Word-spacing](https://www.w3schools.com/cssref/pr_text_word-spacing.asp)
+
+### Display
+- [Display](https://www.w3schools.com/cssref/pr_class_display.php)
