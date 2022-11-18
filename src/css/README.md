@@ -18,4 +18,4 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 - [Práctica: Gamma News](../css/exercises/gamma_news/)
 - [Práctica: Estilos en tu web tributo](../html/exercises/web_tributo/README.md#3-estilos)
 
-### [Proyecto: Web de los 90](./exercises/web_arbol/README.md)
+### [Proyecto: Web de los 90](./exercises/web_arbol)
