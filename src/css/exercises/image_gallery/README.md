@@ -8,8 +8,8 @@ El famoso fotógrafo, artista y timador mexicano **Armando Bulla** te ha contact
 
 El resultado debe de ser el siguiente:
 
-![](example_gallery_1)
-![](example_gallery_2)
+![](example_gallery_1.png)
+![](example_gallery_2.png)
 
 
 ### Iteraciones
