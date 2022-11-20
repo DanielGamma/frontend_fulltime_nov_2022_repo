@@ -19,3 +19,7 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 - [Práctica: Estilos en tu web tributo](../html/exercises/web_tributo/README.md#3-estilos)
 
 ### [Proyecto: Web de los 90](./exercises/web_arbol)
+
+### Background, transform y transition
+- [Teoría: Background, transform y transition](./background_transform.md)
+- [Práctica: Image Gallery](./exercises/image_gallery/README.md)
