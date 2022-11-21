@@ -14,7 +14,7 @@ Crea un `h1` dentro del `div` anterior. Ahora, cuando pasemos el ratón sobre el
 - Cambiar el color del texto. Esta animación **debe durar `1s` y debe empezar después de que el texto acabe de desplazarse**.
 
 ## Ejercicio 3
-Crea otro `div` debajo del que ya tenías (un sibling del primero) para que, cuando hagamos `hover` sobre el **primer `div`**, este **segundo `div`:
+Crea otro `div` debajo del que ya tenías (un sibling del primero) para que, cuando hagamos `hover` sobre el **primer `div`**, este **segundo `div`**:
 - Rote una vuelta completa sobre sí mismo mientras se desplaza hacia el otro lado de la pantalla. Ambas animaciones deben durar `3s`.
 
 ## Ejercicio 4
