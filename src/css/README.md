@@ -28,4 +28,4 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 ### Flexbox
 - [Teoría: Flexbox](./flexbox.md)
 - [Práctica: Flexbox Froggy](https://flexboxfroggy.com/#es)
-- [Práctica: Contactos copleros](./exercises/contactos_copleros.md)
+- [Práctica: Contactos copleros](./exercises/contactos_copleros)
