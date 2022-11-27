@@ -29,3 +29,11 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 - [Teoría: Flexbox](./flexbox.md)
 - [Práctica: Flexbox Froggy](https://flexboxfroggy.com/#es)
 - [Práctica: Contactos copleros](./exercises/contactos_copleros)
+
+### Media queries
+- [Teoría: Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
+- [Práctica: Responsive layout](./exercises/media_queries/)
+
+## CSS Grid
+
+## [Ejercicios de repaso](./exercises/ejercicios_repaso/)
