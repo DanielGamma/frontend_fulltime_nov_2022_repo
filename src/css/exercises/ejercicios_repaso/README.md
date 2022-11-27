@@ -61,7 +61,7 @@ Clona **[este repositorio](https://github.com/DaniPhilo/pricing_panel_starter)**
 **Aviso**: ¡es responsive! Eso también deberás programarlo.
 
 ### 3. Responsive paralax website
-Echa un vistazo a esta web([Encore](https://altcampus.github.io/encore/#)) y trata de copiar su diseño.
+Echa un vistazo a esta web ([Encore](https://altcampus.github.io/encore/#)) y trata de copiar su diseño.
 
 A priori, es un landing bastante sencillo. Sin embargo, deberías tener en cuenta dos cosas:
 1. La web es responsive: deberás copiar eso también, en los mismos breakpoints y tratando de que el resultado sea el mismo.
