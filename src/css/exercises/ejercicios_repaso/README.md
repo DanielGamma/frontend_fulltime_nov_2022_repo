@@ -22,15 +22,16 @@ Usa tus conocimientos de CSS para diseñar, al menos, tres **hamburger buttons**
 ![](./assets/hamburger_buttons.jpeg)
 ### Bonus track  
 Ahora, dale algún tipo de efecto a los botones cuando se haga `hover` sobre ellos. Cada botón tiene que tener un efecto **diferente**, y **AL MENOS UNO** de los botones debe tener un efecto de posición. Por ejemplo: si has hecho el botón "Kebab", cuando hagas `hover` los puntitos deberán pasar de estar en columna a estar en fila. O, si has hecho el "Hamburger", las tres líneas deben convertirse en un aspa.
-![](./assets/menu_animation.gif)  
+
+<img src="./assets/menu_animation.gif" width="300">
 
 
 
 ## Ejercicio 4: Responsive header
 
 Crea un header responsive que tenga al menos dos vistas, una de escritorio y otra móvil:
-![](./assets/responsive_header_desktop.png)
-![](./assets/responsive_header_mobile.png)
+<img src="./assets/responsive_header_desktop.png" width="300">
+<img src="./assets/responsive_header_mobile.png" width="300">
 
 ### Requisitos:
 1. El header debe hacerse con **flexbox**. Queda terminantemente prohibido usar margen o padding para centrar los elementos.
