@@ -52,7 +52,7 @@ div {
 }
 ```
 
-## Contenedor grid
+## Contenedor grid
 
 ### Declarar un contenedor como `grid``
 ```css
