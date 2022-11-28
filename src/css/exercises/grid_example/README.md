@@ -143,5 +143,6 @@ Puede abreviarse del siguiente modo:
 
 
 ## Ejercicio
-Usando lo que has parendido de `CSS Grid`, y con el `HTML` y `CSS` que te hemos proporcionado, intenta conseguir el siguiente layout:
+Usando lo que has parendido de `CSS Grid`, y con el `HTML` y `CSS` que te hemos proporcionado, intenta conseguir el siguiente layout:  
+
 ![](./assets/grid_exercise.png)

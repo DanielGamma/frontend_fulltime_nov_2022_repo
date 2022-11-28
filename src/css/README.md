@@ -34,7 +34,7 @@ El HTML nos sirve para escribir el contenido de nuestra página (texto, imágene
 - [Teoría: Media queries](https://www.w3schools.com/css/css_rwd_mediaqueries.asp)
 - [Práctica: Responsive layout](./exercises/media_queries/)
 
-## CSS Grid
+### CSS Grid
 - [Reto: aprende Grid siguiendo los ejemplos de la documentación](./exercises/grid_example/)
 - [Práctica: Grid Garden](https://cssgridgarden.com/#es)
 

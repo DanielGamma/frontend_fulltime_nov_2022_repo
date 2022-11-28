@@ -60,7 +60,7 @@ Puedes inspirarte en **[este diseño](https://amazing-cranachan-4ae763.netlify.a
 Clona **[este repositorio](https://github.com/DaniPhilo/pricing_panel_starter)** en tu ordenador. En él encontrarás un HTML ya escrito y preparado, y un archivo CSS para que lo rellenes; también tienes una carpeta con las imágenes que necesitarás. El objetivo es desarrollar un panel exacto a **[este](https://strong-buttercream-9cddf8.netlify.app)**. 
 **Aviso**: ¡es responsive! Eso también deberás programarlo.
 
-### 3. Responsive paralax website
+### 3. Responsive parallax website
 Echa un vistazo a esta web ([Encore](https://altcampus.github.io/encore/#)) y trata de copiar su diseño.
 
 A priori, es un landing bastante sencillo. Sin embargo, deberías tener en cuenta dos cosas:
