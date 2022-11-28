@@ -54,7 +54,7 @@ div {
 
 ## Contenedor grid
 
-### Declarar un contenedor como `grid``
+### Declarar un contenedor como `grid`
 ```css
 .grid-container {
     display: grid;
