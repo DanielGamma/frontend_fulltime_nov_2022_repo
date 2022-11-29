@@ -11,12 +11,12 @@
 - [Práctica: Ejercicios de operators](./exercises/ex_operators.md)
 
 ### Numbers
-- [Teoría: Numbers]()
-- [Práctica: Ejercicios de numbers]()
+- [Teoría: Numbers](./theory/numbers.md)
+- [Práctica: Ejercicios de numbers](./exercises/ex_numbers.md)
 
 ### Strings
 - [Teoría: Strings]()
-- [Prçactica: Ejercicios de strings]()
+- [Práctica: Ejercicios de strings]()
 
 ### Conditionals
 - [Teoría: Conditionals]()
