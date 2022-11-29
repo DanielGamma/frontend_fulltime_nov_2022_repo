@@ -15,8 +15,8 @@
 - [Práctica: Ejercicios de numbers](./exercises/ex_numbers.md)
 
 ### Strings
-- [Teoría: Strings]()
-- [Práctica: Ejercicios de strings]()
+- [Teoría: Strings](./theory/strings.md)
+- [Práctica: Ejercicios de strings](./exercises/ex_strings.md)
 
 ### Conditionals
 - [Teoría: Conditionals]()
