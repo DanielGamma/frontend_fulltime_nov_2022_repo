@@ -7,8 +7,8 @@
 - [Práctica: Ejercicios de variables y data types](./exercises/ex_variables_data_types.md)
 
 ### Operators
-- [Teoría: Operators]()
-- [Práctica: Ejercicios de operators]()
+- [Teoría: Operators](./theory/operators.md)
+- [Práctica: Ejercicios de operators](./exercises/ex_operators.md)
 
 ### Numbers
 - [Teoría: Numbers]()

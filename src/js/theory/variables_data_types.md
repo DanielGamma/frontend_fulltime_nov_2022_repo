@@ -1,14 +1,16 @@
-## Variables y tipos de datos
+![](../../assets/Logo_Yellow.png)
 
-### Variables
-#### ¿Qué es una variable?
+# Variables y tipos de datos
+
+## Variables
+### ¿Qué es una variable?
 En programación, las `variables` son *contenedores* de datos. Usamos las variables para *almacenar* datos en la memoria del ordenador. Cuando se `declara` una variable, se le reserva un espacio en la memoria del ordenador y podemos asignarle un `valor` o `dato` que será guardado en dicha variable.
 
 Podemos pensar en las `variables` como si fueran *cajas* dentro de las cuáles guardamos cosas. El ordenador guardará en esa caja (la variable) lo que tú le digas que guarde, y colocará la caja en algún lugar de su memoria.
 
 Ahora bien, ¿cómo podemos recuperar lo que guardamos dentro de la variable? Muy fácil, le damos un `nombre`. Siguiendo con el símil de la caja, es como si le pusieramos una etiqueta a la caja para saber qué hay dentro. Así, más adelante, podremos buscar la caja por el nombre y obtener su contenido. 
 
-#### Declaración de variables
+### Declaración de variables
 En JavaScript, para declarar una variable, usamos `let` o `const` seguido del nombre que le queramos dar a nuestra variable:
 ```javascript
 let name;
@@ -63,7 +65,7 @@ const height = 180;
 height = 190;  // TypeError: Assignment to constant variable.
 ```
 
-### Tipos de datos
+## Tipos de datos
 Todos los lenguajes de programación tienen distintos tipos de datos con los que pueden trabajar. Puedes pensar en los datos como todo aquello que puede almacenarse en una variable. En JavaScript tenemos dos grupos de datos: los `primitives` y los `objects`. 
 Los `primitives` de JavaScript son:
 - string
@@ -76,7 +78,7 @@ Los `primitives` de JavaScript son:
 
 Veámos algunos de estos datos:
 
-#### Numbers
+### Numbers
 Números enteros (negativos, cero y positivos) y números decimales: 
 ```javascript
 1
@@ -85,7 +87,7 @@ Números enteros (negativos, cero y positivos) y números decimales:
 5.15
 ```
 
-#### Strings
+### Strings
 Los `strings` son cadenas de caracteres que van entre comillas dobles, simples o backticks. En JavaScript, los `strings` son el equivalente a texto, una serie de caracteres seguidos:
 ```javascript
 "hello"
@@ -101,22 +103,22 @@ Es importante entender que todo aquello que vaya entrecomillado será un `string
 `14/04/1931`
 ```
 
-#### Booleans
+### Booleans
 El valor de un `boolean` solo puede ser `true` o `false` (verdadero o falso). Cada vez que pidas a JavaScript que realice una comparación, responderá con un `boolean`.
 
-#### Undefined
+### Undefined
 En JavaScript, si no le asignamos un valor a una variable, éste es `undefined` por defecto. También es el valor que devuelven las funcionen que no devuelven nada:
 ```javascript
 let firstName;
 console.log(firstName); // undefined
 ```
-#### Null
+### Null
 El valor `null` representa intencionalmente un valor vacío o nulo:
 ```javascript
 let emptyValue = null;
 ```
 
-#### El operador `typeof`
+### El operador `typeof`
 Podemos comprobar el tipo de dato de una variable usando el operador `typeof`. Veamos cómo funciona:
 ```javascript
 console.log(typeof 'JavaScript') // string
