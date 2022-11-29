@@ -1,3 +1,5 @@
+![](../../assets/Logo_Yellow.png)
+
 # Ejercicios JS - Numbers
 
 1. Calcula la operación `2` elevado a la `4`.

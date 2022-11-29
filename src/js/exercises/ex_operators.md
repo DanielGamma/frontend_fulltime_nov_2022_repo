@@ -1,3 +1,5 @@
+![](../../assets/Logo_Yellow.png)
+
 # Ejercicios JS - Operators
 
 1. Declara las variables `name`, `age`, `city`, `isMarried` y `year`, dale los valores apropiados y muestra por consola el tipo de dato que contienen.

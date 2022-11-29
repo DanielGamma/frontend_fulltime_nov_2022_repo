@@ -1,3 +1,5 @@
+![](../../assets/Logo_Yellow.png)
+
 # Ejercicios JS - Variables y tipos de datos
 
 1. Crea un archivo llamado `variables.js` y crea en su interior una variable de tipo `string`, `number`, `boolean`, `undefined` y `null` con el nonmbre que quieras. Muéstralas por la consola para comprobar que lo has hecho correctamente.
