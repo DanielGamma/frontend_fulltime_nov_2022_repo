@@ -1,6 +1,6 @@
 ![logotipo de GammaTech School](../assets/Logo_Yellow.png)
 
-# Índice (HTML)
+# Índice HTML
 
 ## ¿Qué es HTML?
 HTML (HyperText Markup Language) es un lenguaje de marcado que nos permite indicar la estructura de nuestro documento o página web mediante etiquetas. Este lenguaje nos ofrece una gran adaptabilidad, una estructuración lógica y es fácil de interpre­tar tanto por humanos como por máquinas. 

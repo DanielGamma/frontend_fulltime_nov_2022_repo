@@ -1,4 +1,6 @@
-# Índice (CSS)
+![logotipo de GammaTech School](../assets/Logo_Yellow.png)
+
+# Índice CSS
 
 ## ¿Qué es CSS?
 CSS (Cascading Style Sheets) es un lenguaje que nos permite añadir estilos a una página de HTML y, por lo tanto, controlar el modo en que ésta se va a presentar al usuario en el navegador. Con CSS determinaremos el tamaño, color, posición, etc., de cualquier elemento de HTML que queramos. Por ello, aprender CSS es fundamental para convertirse en desarrollador web. 
