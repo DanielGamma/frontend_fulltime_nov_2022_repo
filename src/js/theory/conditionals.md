@@ -85,7 +85,7 @@ console.log(ciudadano); // true
 ```javascript
 let number = 2;
 
-switch (number){
+switch (number) {
 	case 1:
 		console.log("El número es 1");
 		break

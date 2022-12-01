@@ -28,4 +28,4 @@
 - [Práctica: Ejercicios de loops](./exercises/ex_loops.md)
 - [Práctica: FizzBuzz](./exercises/fizzBuzz/)
 
-#### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
+### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
