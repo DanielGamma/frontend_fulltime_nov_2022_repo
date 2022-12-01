@@ -18,3 +18,12 @@
 ### Strings
 - [Teoría: Strings](./theory/strings.md)
 - [Práctica: Ejercicios de strings](./exercises/ex_strings.md)
+
+### Conditionals
+- [Teoría: Conditionals](./theory/conditionals.md)
+- [Práctica: Ejercicios de conditionals](./exercises/ex_conditionals.md)
+
+### Loops
+- [Teoría: Loops](./theory/loops.md)
+- [Práctica: Ejercicios de loops](./exercises/ex_loops.md)
+- [Práctica: FizzBuzz](./exercises/fizzBuzz/)
