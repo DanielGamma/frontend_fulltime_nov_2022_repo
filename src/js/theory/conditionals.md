@@ -84,7 +84,8 @@ console.log(ciudadano); // true
 `switch` es una manera alternativa de hacer condicionales `if / else`. A un `switch` le pasaremos un valor, y a continnuación escribiremos qué instrucción se va a evaluar dependiendo de cuál sea ese valor. A diferencia de `if / else`, no le pasaremos una condición que pueda ser `true` o `false`, sino un valor:
 ```javascript
 let number = 2;
-switch (number):
+
+switch (number){
 	case 1:
 		console.log("El número es 1");
 		break
@@ -96,9 +97,12 @@ switch (number):
 		break
 	default: 
 		console.log("En caso de que no se cumpla ninguno de los casos anteriores, se ejecuta esta línea por defecto.");
+}
 ```
 
-Como ves, después de cada bloque de código, hay que ordenarle a `switch` que se detenga usando `break`, para que así no siga evaluando el resto de condiciones. Al final de `switch`, podemos poner un caso por defecto, que sería el equivalente al `else`: se ejecutará si no se cumplen los casos anteriores.
+Como ves, después de cada bloque de código, hay que ordenarle a `switch` que se detenga usando `break`. Si no lo hacemos, en cuanto se cumpla alguno de los `cases`, se ejecutará todo el código hasta el final del `switch` o hasta el siguiente `break`, independientemente de las condiciones. 
+
+Al final de `switch`, podemos poner un caso por defecto, que sería el equivalente al `else`: se ejecutará si no se cumplen los casos anteriores.
 
 ## Links útiles:
 
