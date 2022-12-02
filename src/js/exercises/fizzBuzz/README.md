@@ -22,7 +22,7 @@ Salida por consola:
 2
 Fizz
 4
-5
+Buzz
 Fizz
 7
 8
@@ -34,5 +34,5 @@ Fizz
 14
 FizzBuzz
 16
-...
+etc...
 ```
