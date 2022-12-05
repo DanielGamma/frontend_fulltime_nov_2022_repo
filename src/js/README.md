@@ -30,4 +30,4 @@
 
 ### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
 
-### [Ejercicios Puente de Diciembre]()
+### [Ejercicios Puente de Diciembre](./exercises/ex_puente_diciembre.md)
