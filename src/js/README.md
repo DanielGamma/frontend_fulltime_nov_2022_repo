@@ -29,3 +29,5 @@
 - [Práctica: FizzBuzz](./exercises/fizzBuzz/)
 
 ### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
+
+### [Ejercicios Puente de Diciembre]()
