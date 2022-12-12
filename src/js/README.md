@@ -31,3 +31,7 @@
 ### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
 
 ### [Ejercicios Puente de Diciembre](./exercises/ex_puente_diciembre.md)
+
+### Arrays
+- [Teoría: Arrays](./theory/arrays.md)
+- [Práctica: Ejercicios de arrays](./exercises/ex_arrays.md)
