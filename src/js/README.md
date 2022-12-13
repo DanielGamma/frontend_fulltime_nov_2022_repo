@@ -35,3 +35,7 @@
 ### Arrays
 - [Teoría: Arrays](./theory/arrays.md)
 - [Práctica: Ejercicios de arrays](./exercises/ex_arrays.md)
+
+### Functions
+- [Teoría: Functions](./theory/functions.md)
+- [Práctica: Ejercicios de funciones](./exercises/ex_functions.md)
