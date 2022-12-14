@@ -39,3 +39,7 @@
 ### Functions
 - [Teoría: Functions](./theory/functions.md)
 - [Práctica: Ejercicios de funciones](./exercises/ex_functions.md)
+
+### Objects
+- [Teoría: Objects](./theory/objects.md)
+- [Práctica: Ejercicios de objects](./exercises/ex_objects.md)
