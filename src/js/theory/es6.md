@@ -56,6 +56,18 @@ Podemos escribir la operación anterior de manera más abreviada usando `arrow f
 array.map(num => num * 2);
 ```
 
+### `forEach()``
+El método `forEach` itera sobre un array y aplica la función que le pasemos al método sobre cada elemento. Este método no devuelve nada:
+```javascript
+const numbers = [1, 2, 3, 4, 5];
+const doubles = numbers.forEach(num => console.log(num));  
+// 1
+// 2 
+// 3 
+// 4 
+// 5
+```
+
 ### `map()`
 El método `map` itera sobre el array, permite que operemos coon cada valor como queramos, y devuelve un nuevo array con las modificaciones.
 ```javascript
