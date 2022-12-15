@@ -43,3 +43,8 @@
 ### Objects
 - [Teoría: Objects](./theory/objects.md)
 - [Práctica: Ejercicios de objects](./exercises/ex_objects.md)
+
+### ES6
+- [Teoría: Arrow Functions](./theory/es6.md#arrow-functions)
+- [Teoría: Array Methods](./theory/es6.md#array-methods)
+- [Práctica: Ejercicios Array Methods](./exercises/ex_es6.md)
