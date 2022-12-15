@@ -16,18 +16,18 @@ const products = [
 ];
 ```
 
-1. Use **_forEach_** to console.log each country in the countries array.
-2. Use **_forEach_** to console.log each name in the names array.
-3. Use **_forEach_** to console.log each number in the numbers array.
-4. Use **_map_** to create a new array by changing each country to uppercase in the countries array.
-5. Use **_map_** to create an array of countries length from countries array.
-6. Use **_map_** to create a new array by changing each number to square in the numbers array
-7.  Use **_map_** to change to each name to uppercase in the names array
-8. Use **_map_** to map the products array to its corresponding prices.
-9. Use **_filter_** to filter out countries containing **_land_**.
-10. Use **_filter_** to filter out countries having six character.
-11. Use **_filter_** to filter out countries containing six letters and more in the country array.
-12. Use **_filter_** to filter out country start with 'E';
-13. Use **_filter_** to filter out only prices with values.
-14. Declare a function called getStringLists which takes an array as a parameter and then returns an array only with string items.
-15. Use **_reduce_** to sum all the numbers in the numbers array.
+1. Usa **_forEach_** para mostrar por consola cada país del array `countries`.
+2. Usa **_forEach_** para mostrar por consola cada nombre del array `names`.
+3. Usa **_forEach_** para mostrar por consola cada número del array `numbers`.
+4. Usa **_map_** para crear un nuevo array con cada país del array `countries` en **mayúsculas**.
+5. Usa **_map_** para crear un array con la **longitud** de cada país del array `countries`.
+6. Usa **_map_** para crear un array con el cuadrado de cada número de array `numbers`.
+7.  Usa **_map_** para crear un nuevo array con cada nombre del array `names` en mayúsculas.
+8. Usa **_forEach_** para mostrar por consola el **precio** de cada producto en el array `products`.
+9. Usa **_filter_** para filtrar los países que incluyan el string **_land_** en el array `countries`.
+10. Usa **_filter_** para filtrar los países que tengan más de `6` letras en el array `countries`.
+12. Usa **_filter_** para filtrar los páises que empiecen por `E` en el array `countries`.
+13. Usa **_filter_** para filtrar los **productos** que tengan un **precio** mayor que `6`.
+14. Declara un función llamada `getStringLists` que acepte un array de cualquier tipo de elementos, pero devuelva un array nuevo contentiendo sólo los strings.
+15. Usa **_reduce_** para sumar todos los números del array `numbers`.
+16. Usa **_reduce_** para restar todos los números del array `numbers`.
