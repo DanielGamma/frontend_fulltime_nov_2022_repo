@@ -3,7 +3,7 @@
 # Ejercicios JS - Array methods
 
 ```javascript
-const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'IceLand'];
+const countries = ['Finland', 'Sweden', 'Denmark', 'Norway', 'Iceland'];
 const names = ['Carlos', 'María', 'Isidro', 'Cristina'];
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 const products = [
