@@ -50,3 +50,4 @@
 - [Práctica: Ejercicios Array Methods](./exercises/ex_es6.md)
 
 ### [Demo Day JS I - Práctica](./exercises/demo_day_1.md)
+### [JS Fundamentals - Ejercicios de repaso](./exercises/js_repaso.md)
