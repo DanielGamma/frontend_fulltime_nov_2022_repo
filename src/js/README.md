@@ -49,4 +49,4 @@
 - [Teoría: Array Methods](./theory/es6.md#array-methods)
 - [Práctica: Ejercicios Array Methods](./exercises/ex_es6.md)
 
-### [Demo Day JS I - Páctica](./exercises/demo_day_1.md)
+### [Demo Day JS I - Práctica](./exercises/demo_day_1.md)
