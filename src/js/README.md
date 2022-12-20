@@ -30,8 +30,6 @@
 
 ### [Guía - Cómo iterar sobre un `string`](./theory/strings_loop.md)
 
-### [Ejercicios Puente de Diciembre](./exercises/ex_puente_diciembre.md)
-
 ### Arrays
 - [Teoría: Arrays](./theory/arrays.md)
 - [Práctica: Ejercicios de arrays](./exercises/ex_arrays.md)
@@ -49,5 +47,10 @@
 - [Teoría: Array Methods](./theory/es6.md#array-methods)
 - [Práctica: Ejercicios Array Methods](./exercises/ex_es6.md)
 
-### [Demo Day JS I - Práctica](./exercises/demo_day_1.md)
 ### [JS Fundamentals - Ejercicios de repaso](./exercises/js_repaso.md)
+
+
+## Document Object Model (DOM)
+### Acceso y modificación del DOM
+- [Teoría: Acceso y modificación del DOM](./theory/dom_1.md)
+- [Práctica: Ejercicios de DOM I](./exercises/ex_dom_1)
