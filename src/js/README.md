@@ -52,5 +52,11 @@
 
 ## Document Object Model (DOM)
 ### Acceso y modificación del DOM
-- [Teoría: Acceso y modificación del DOM](./theory/dom_1.md)
-- [Práctica: Ejercicios de DOM I](./exercises/ex_dom_1)
+- [Teoría: Acceso y modificación del DOM](./theory/dom_intro.md)
+- [Práctica: Ejercicios de DOM I](./exercises/ex_dom_intro)
+
+### Eventos
+- [Teoría: Eventos](./theory/dom_events.md)
+- [Teoría: Gestión de formularios](./theory/dom_events.md#submit)
+- [Práctica: Click events](https://github.com/DanielGamma/click_events_exercises)
+- [Práctica: Submit events]()
