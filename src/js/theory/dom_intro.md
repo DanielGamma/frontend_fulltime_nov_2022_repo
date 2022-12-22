@@ -81,7 +81,7 @@ console.log(title);  // <h1 id="title" style="color: red; background-color: blue
 Este código hará que el elemento `h1` que hemos seleccionado tenga el fondo azul y la fuente roja, como puede comprobarse ahora viendo su HTML: ahora se le ha aplicado un estilo **_inline_** con el atributo `style`.
 
 #### Clases
-Podemos accesder a la lista de clases de un elemento usando la propiedad `classList` que contiene un `array` con las clases que tiene.
+Podemos accesder a la lista de clases de un elemento usando la propiedad `classList` que contiene una lista con las clases que tiene.
 ```html
 <p class="paragraph light-p">Párrafo</p>
 ```
@@ -90,19 +90,7 @@ const paragraph = document.querySelector("p");
 console.log(paragraph.classList); // ['paragraph', 'light-p']
 ```
 
-Por lo tanto, podemos añadir o quitar clases del mismo modo que podemos añadir o quitar elementos de un array:
-```html
-<p class="paragraph">Párrafo</p>
-```
-```javascript
-const paragraph = document.querySelector("p");
-console.log(paragraph.classList);  // ['paragraph']
-
-paragraph.classList.push("light");
-console.log(paragraph.classList);  // ['paragraph', 'light']
-```
-
-Pero el método `classList()` nos provee a su vez de otras formas de añadir y quitar classes, usando dos métodos propios:
+Ahora bien, aunque los que devuelve `classList` es una lista ordenada, ésta **_NO_** es un array. Para introducir y sacar elementos de esta lista, `classList` nos provee a su vez de otras formas de añadir y quitar classes, usando dos métodos propios:
 ```html
 <p class="paragraph">Párrafo</p>
 ```
