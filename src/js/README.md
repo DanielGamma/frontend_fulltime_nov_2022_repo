@@ -61,6 +61,7 @@
 - [Práctica: Click events](https://github.com/DanielGamma/click_events_exercises)
 - [Práctica: Submit events](https://github.com/DanielGamma/submit_event_exercises)
 
+
 ### [DOM Project I - Ping Pong Counter](./proyects/ping_pong_counter/)
 ### [DOM Project II - To Do App](./proyects/to_do_app/)
 ### [DOM Project III - Travel Price Calculator](./proyects/travel_price_calculator/)
