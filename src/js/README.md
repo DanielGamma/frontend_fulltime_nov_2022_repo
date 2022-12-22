@@ -59,4 +59,4 @@
 - [Teoría: Eventos](./theory/dom_events.md)
 - [Teoría: Gestión de formularios](./theory/dom_events.md#submit)
 - [Práctica: Click events](https://github.com/DanielGamma/click_events_exercises)
-- [Práctica: Submit events]()
+- [Práctica: Submit events](https://github.com/DanielGamma/submit_event_exercises)
