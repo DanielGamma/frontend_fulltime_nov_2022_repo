@@ -51,6 +51,8 @@
 #### Destructuring
 - [Teoría: Destructuring](./theory/es6.md#destructuring)
 - [Práctica: Ejercicios destructuring](./exercises/ex_es6_destructuring.md)
+#### Spread
+- [Teoría: Spread operator](./theory/es6.md#spread)
 
 ### [JS Fundamentals - Ejercicios de repaso](./exercises/js_repaso.md)
 
