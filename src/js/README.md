@@ -65,3 +65,7 @@
 ### [DOM Project I - Ping Pong Counter](./proyects/ping_pong_counter/)
 ### [DOM Project II - To Do App](./proyects/to_do_app/)
 ### [DOM Project III - Travel Price Calculator](./proyects/travel_price_calculator/)
+
+### WebStorage
+- [LocalStorage y SessionStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API)
+- [Práctica: Ejercicios de Web Storage](./exercises/ex_webstorage.md)
