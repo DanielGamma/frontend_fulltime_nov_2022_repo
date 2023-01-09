@@ -43,11 +43,13 @@
 - [Práctica: Ejercicios de objects](./exercises/ex_objects.md)
 
 ### ES6
-#### Array methods
+#### Arrow functions
 - [Teoría: Arrow Functions](./theory/es6.md#arrow-functions)
+#### Array methods
 - [Teoría: Array Methods](./theory/es6.md#array-methods)
-#### Destructuring
 - [Práctica: Ejercicios array methods](./exercises/ex_es6_array_methods.md)
+#### Destructuring
+- [Teoría: Destructuring](./theory/es6.md#destructuring)
 - [Práctica: Ejercicios destructuring](./exercises/ex_es6_destructuring.md)
 
 ### [JS Fundamentals - Ejercicios de repaso](./exercises/js_repaso.md)
