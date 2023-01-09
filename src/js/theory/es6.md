@@ -115,5 +115,109 @@ console.log(ascendingList);   // [1, 2, 4, 5, 8]
 console.log(descendingList);  // [8, 5, 4, 2, 1]
 ```
 
-[Link: ES6 - Métodos de array](https://scandiweb.com/blog/javascript-array-methods-explained/)
+[Link: ES6 - Métodos de array](https://scandiweb.com/blog/javascript-array-methods-explained/)  
+  
+
+
+## Destructuring
+`Destructuring` o `desestructurar` es una manera rápida de sacar e introducir valores de un `array` u `objeto` y asignarlos a variables concreta.
+
+### Extraer valores
+```javascript
+const array = [1, 2];
+const [num1, num2] = array;
+
+console.log(num1);  // 1
+console.log(num2);  // 2
+
+const person = {
+	name: "Peter",
+	age: 30
+}
+const {name, age} = person;
+
+console.log(name);  // "Peter"
+console.log(age);  // 30
+```
+
+### Valores por defecto
+También podemos dar valores por defecto a las variables en caso de que el `array` o el`objeto` no tuviera dichos valores:
+```javascript
+const array = [1, 2];
+const [num1, num2, num3] = array;
+console.log(num3);  // undefined
+
+const [num1, num2, num3 = 3] = array;
+console.log(num3);  // 3
+```
+
+### Asignar nombre de variable
+Del mismo modo, no tenemos que conformarnos con llamar a las variables del mismo modo que en el objeto. Podemos asignarles nuevos nombres:
+```javascript
+const person = {
+	name: "John",
+	age: 30
+}
+
+const {name: firstName, age} = person;
+console.log(firstName); // "John"
+// El valor de "person.name" se guarda dentro de la variable "firstName"
+```
+
+### Saltar valores no necesarios
+Si hay algún valor dentro del array que no necesitamos, podemos saltárnoslo usando `,` en su lugar:
+```javascript
+const fruits = ["apple", "orange", "banana", "peach"];
+
+const [apple, orange, , peach] = fruits;
+
+console.log(apple, orange, peach);  // apple, orange, peach
+```
+
+### Crear valores
+Podemos crear objetos usando esta sintaxis también:
+```javascript
+const nombre: "John";
+const edad: 35;
+const user = {nombre, edad};
+
+console.log(user);  // {nombre: "John", edad: 35}
+```
+
+
+## Spread
+El operador `spread` consiste en tres puntos (`...`) que sirven para *expandir* o *esparcir* un `iterable`, como un `array`.
+
+Podemos usarlo para introducir un `array` como argumentos de una función:
+```javascript
+const numbers = [5, 2, 8];
+
+function sum(x, y, z) {
+	return x + y + z
+}
+
+sum(...numbers);  // 15
+```
+
+O para concatenar `arrays` y **_objetos_**:
+```javascript
+// Arrays:
+const arr1 = ["red", "green", "blue"];
+const arr2 = [1, 2, 3];
+
+const result = [...arr1, ...arr2];
+console.log(arr3);  // ["red", "green", "blue", 1, 2, 3]
+
+// Objects:
+const name = {
+	name: "John"
+}
+const age = {
+	age: 27
+}
+
+const person = {...name, ...age}
+console.log(person);  // { name: "John", age: 27 }
+```
+
 
