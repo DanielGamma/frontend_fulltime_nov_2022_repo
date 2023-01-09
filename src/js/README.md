@@ -49,7 +49,7 @@
 - [Teoría: Array Methods](./theory/es6.md#array-methods)
 - [Práctica: Ejercicios array methods](./exercises/ex_es6_array_methods.md)
 #### Destructuring
-- [Teoría: Destructuring](./theory/es6.md#destructuring)
+- [Teoría: Destructuring](./theory/es6.md#destructuring)
 - [Práctica: Ejercicios destructuring](./exercises/ex_es6_destructuring.md)
 
 ### [JS Fundamentals - Ejercicios de repaso](./exercises/js_repaso.md)
